@@ -1,4 +1,4 @@
-# Machine-Learning-Project-Dutch
+# Датирование исторических текстов на нидерландском языке (XIII-XIX вв.)<img width="4001" height="238" alt="image" src="https://github.com/user-attachments/assets/99b395d4-d9a6-48c5-a45d-ba9d18aa97d8" />
 
-- classic models (done)
-- Bert (work in progress)
+## Цель проекта
+Создать модель, которая бы классифицировала тексты на нидерландском языке в зависимости от... 
